@@ -1,0 +1,13 @@
+E:\netapp\LatihanInteger\bin\Debug\netcoreapp3.1\LatihanInteger.exe
+E:\netapp\LatihanInteger\bin\Debug\netcoreapp3.1\LatihanInteger.deps.json
+E:\netapp\LatihanInteger\bin\Debug\netcoreapp3.1\LatihanInteger.runtimeconfig.json
+E:\netapp\LatihanInteger\bin\Debug\netcoreapp3.1\LatihanInteger.runtimeconfig.dev.json
+E:\netapp\LatihanInteger\bin\Debug\netcoreapp3.1\LatihanInteger.dll
+E:\netapp\LatihanInteger\bin\Debug\netcoreapp3.1\LatihanInteger.pdb
+E:\netapp\LatihanInteger\obj\Debug\netcoreapp3.1\LatihanInteger.csprojAssemblyReference.cache
+E:\netapp\LatihanInteger\obj\Debug\netcoreapp3.1\LatihanInteger.AssemblyInfoInputs.cache
+E:\netapp\LatihanInteger\obj\Debug\netcoreapp3.1\LatihanInteger.AssemblyInfo.cs
+E:\netapp\LatihanInteger\obj\Debug\netcoreapp3.1\LatihanInteger.csproj.CoreCompileInputs.cache
+E:\netapp\LatihanInteger\obj\Debug\netcoreapp3.1\LatihanInteger.dll
+E:\netapp\LatihanInteger\obj\Debug\netcoreapp3.1\LatihanInteger.pdb
+E:\netapp\LatihanInteger\obj\Debug\netcoreapp3.1\LatihanInteger.genruntimeconfig.cache
